@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="JLineBot-Web.config Connection String" description="JLineBot 應用程式在 web.config 中用來存取資料庫的連接字串。" defaultValue="Data Source=jlinebot.database.windows.net;&#xD;&#xA;         Initial Catalog=JLineBot;Integrated Security=False;User ID=jay;Password=********;&#xD;&#xA;         Connect Timeout=60;Encrypt=False;TrustServerCertificate=True;&#xD;&#xA;         ApplicationIntent=ReadWrite;MultiSubnetFailover=False" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\workspace\\JLineBot\\JLineBot\\JLineBot\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='JLineBot']/@connectionString" />
+  </parameter>
+</parameters>

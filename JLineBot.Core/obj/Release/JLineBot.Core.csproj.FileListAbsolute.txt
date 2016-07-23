@@ -1,0 +1,12 @@
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\bin\Release\JLineBot.Core.dll.config
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\bin\Release\JLineBot.Core.dll
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\bin\Release\JLineBot.Core.pdb
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\bin\Release\EntityFramework.dll
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\bin\Release\EntityFramework.SqlServer.dll
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\bin\Release\EntityFramework.xml
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\bin\Release\EntityFramework.SqlServer.xml
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\bin\Release\zh-Hant\EntityFramework.resources.dll
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\bin\Release\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\obj\Release\JLineBot.Core.csprojResolveAssemblyReference.cache
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\obj\Release\JLineBot.Core.dll
+D:\WorkSpace\自用\JLineBot\JLineBot.Core\obj\Release\JLineBot.Core.pdb
